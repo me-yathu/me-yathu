@@ -14,50 +14,23 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-*Quiet learner. builder. Always growing.* 
+*Quiet learner. Builder. Always growing.* 🌱  
 
-I’m a Software Engineering student who likes creating things that feel simple, calm, and intentional.
+I’m a Software Engineering student who likes creating things that feel simple, calm, and intentional.  
 
+⚙️ I enjoy building interfaces that feel clean and unintrusive, creating little tools that make life quietly easier, trying experiments without pressure, and working on projects I can later look back on and say, “I’ve grown since then.”  
 
-## ⚙️ What I Enjoy Building
-- Interfaces that feel clean and unintrusive  
-- Little tools that make life quietly easier  
-- Experiments where I try something new without pressure  
-- Projects I can look back on and say, “I’ve grown since then”  
+🌷 I’m inspired by coding sessions with soft music, simple designs that don’t try too hard, good books that shift my perspective, people who grow silently and let their work speak, and the idea that consistent effort eventually pays off.  
 
+🛠 Skills & Tools: Python · Java · JavaScript · HTML · CSS · React · Node.js · PHP · SQL · MySQL · Git · VS Code · Postman · Selenium · HuggingFace  
 
-## 🌷 Things That Inspire Me
-- Night-time coding sessions with soft music  
-- Simple designs that don’t try too hard  
-- Good books that shift perspective   
-- People who grow silently and let their work speak  
-- The idea that consistent effort eventually pays off  
+🌘 I learn by trying, breaking, fixing, writing code step by step, valuing clarity over complexity, believing progress doesn’t have to be loud, and caring about doing things right, not too fast.  
 
+⚡ Fun facts: Reading clears my mind,
+* Nighttime is my most productive/creative mode
+* I enjoy collecting random facts I probably won’t use
+* I love experimenting with colors in painting or UI design
+* Music is my secret weapon for focus
+* I sometimes overthink variable names in code… way too much 
 
-## 🛠 Skills (Experinced with)
-Python · Java · JavaScript  
-HTML · CSS · React · Node.js · PHP  
-SQL · MySQL  
-Git · VS Code · Postman · Selenium  · HuggingFace  
-
-
-## 🌘 How I Work
-- I learn by trying, breaking, fixing  
-- I like clarity more than complexity  
-- I write code the way I think — step by step  
-- I believe progress doesn’t have to be loud  
-- I care about doing things right, not too fast
-
-
-## 🔹 Fun Facts
-- Reading clear my mind
-- Music keeps me focused longer
-- Painting helps me recharge, actually relax  
-- I like exploring things I’ve never.. 
-- Art feels like home 
-
-
-## 🌒 What I Want My GitHub To Be
-*A study record, a learning archive, and a collection of projects that tell my journey, little traces of who I am becoming.*
-
-🐾 “Thanks for coming by, may this README be a gentle pause in your busy day😊.”
+🐾 “Thanks for coming by, may this README be a gentle pause in your busy day 😊.”
