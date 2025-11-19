@@ -34,11 +34,11 @@ I’m a Software Engineering student who likes creating things that feel simple,
 - The idea that consistent effort eventually pays off  
 
 
-## 🛠 Skills
+## 🛠 Skills (Experinced with)
 Python · Java · JavaScript  
 HTML · CSS · React · Node.js · PHP  
 SQL · MySQL  
-Git · VS Code · Postman · Selenium IDE · HuggingFace  
+Git · VS Code · Postman · Selenium  · HuggingFace  
 
 
 ## 🌘 How I Work
